@@ -1,5 +1,7 @@
 # Hacking The Interview
 
+This respository contains questions and answers to various interview problems.
+
 ## Cracking the Coding Interview
 
 This sections contains Questions and Answers for Cracking the Coding Interview.
