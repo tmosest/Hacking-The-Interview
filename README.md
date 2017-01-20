@@ -12,3 +12,5 @@ This sections contains Questions and Answers for Cracking the Coding Interview.
   * What if you cannot use additional data structures?
 
 [some of my solutions](./Chapter-1/1.1-Answers/IsUnique.java)
+
+2. <b>1.2 Check Permutation</b> Given two strings check if one is a permutation of the other.
