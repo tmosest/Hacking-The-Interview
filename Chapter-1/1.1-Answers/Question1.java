@@ -4,7 +4,7 @@
 */
 import java.util.*;
 
-public class Question1
+public class IsUnique
 {
 
     /**
